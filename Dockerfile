@@ -1,1 +1,1 @@
-FROM alpine:latest
+FROM resin/raspberrypi3-alpine:latest
